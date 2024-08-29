@@ -1,16 +1,35 @@
-## Hi there 👋
+# Привет! Я Ивашкевич Павел 👋
 
-<!--
-**Pavel0Ivashkevich/Pavel0Ivashkevich** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 О себе
+Я frontend разработчик с опытом в 1 год. Я увлекаюсь React, и всегда ищу новые возможности для обучения и роста.
 
-Here are some ideas to get you started:
+## 🌟 Мои навыки
+- **Языки программирования**: JavaScript, TypeScript, HTML, CSS 
+- **Фреймворки и библиотеки**: React, Angular
+- **Инструменты и технологии**: Git
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📈 Мои достижения
+- Разрабатывал email рассылки которые привлекли много клиентов.
+- Участвовал в ДКЕ 2024 и получил 3 место с командой в кейс чемпионате.
+
+## 📚 Образование
+- Высшее образование  — Специалист по созданию и сопровождению информационных ресурсов
+- 2024 г.
+
+## 🔗 Связь со мной
+- [VK](https://vk.com/1vashkev1ch)
+- [Telegram](https://t.me/pavel_ith)
+- [Personal Website](https://github.com/Pavel0Ivashkevich/portfolio-react)
+
+## 🛠️ Проекты
+- **[Название проекта]** — [Краткое описание проекта]
+  - [Ссылка на репозиторий]
+
+- **[Название проекта]** — [Краткое описание проекта]
+  - [Ссылка на репозиторий]
+
+## ✨ Статистика
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pavel0Ivashkevich&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
+
+## 📅 Последние активные вкладки
+![Last Commit](https://github-readme-streak-stats.herokuapp.com/?user=Pavel0Ivashkevich&theme=radical)
