@@ -17,7 +17,7 @@
 ### 🛠️ Инструменты и технологии:
 <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="50" height="50">
 <img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" width="50" height="50">
-<img src="https://user-images.githubusercontent.com/74038190/246061834-25339cb2-0ee0-4f35-89bc-7a7a728b8c1d.png" width="50" height="50"> <!-- Figma -->
+<img src="https://user-images.githubusercontent.com/74038190/246061834-25339cb2-0ee0-4f35-89bc-7a7a728b8c1d.gif" width="50" height="50"> 
 
 ## 📈 Мои достижения
 - Разрабатывал адаптивные лендинги и email-рассылки, применяя pixel-perfect вёрстку.
