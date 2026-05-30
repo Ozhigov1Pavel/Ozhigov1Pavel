@@ -1,49 +1,70 @@
-# Привет! Я Ожигов Павел 👋
+# Привет! Я Ожигов Павел
 
-## 🚀 О себе
-Я frontend разработчик с годом практического опыта. Специализируюсь на разработке интерфейсов с использованием **React** и **TypeScript**. Постоянно развиваюсь и углубляю знания, сейчас прохожу курс "Фронтенд-разработчик" от Яндекс.Практикума. Открыт к новым задачам, командам и проектам.
+Frontend-разработчик с 4 годами практического опыта. Создаю современные, адаптивные и удобные интерфейсы на **React**, **TypeScript** и **Next.js**.
 
-## 🌟 Мои навыки
+Работаю с компонентной архитектурой, pixel-perfect версткой по Figma, интеграцией API, состояниями интерфейса, формами, роутингом и типизацией данных. Умею как разрабатывать интерфейс с нуля, так и быстро разбираться в существующем frontend-проекте.
 
-### 💻 Языки программирования:
-<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="50" height="50">
-<img src="https://user-images.githubusercontent.com/74038190/238200426-29fd6286-4e7b-4d6c-818f-c4765d5e39a9.gif" width="50" height="50">
-<img src="https://user-images.githubusercontent.com/74038190/238200428-67f477ed-6624-42da-99f0-1a7b1a16eecb.gif" width="50" height="50">
+## Стек
 
-### ⚛️ Фреймворки и библиотеки:
-<img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="50" height="50">
-<img src="https://user-images.githubusercontent.com/74038190/212280823-79088828-a258-4a4d-8d6c-96315d5a07af.gif" width="50" height="50">
+**Frontend:**  
+React, TypeScript, JavaScript, Next.js, HTML5, CSS3, SCSS/SASS
 
-### 🛠️ Инструменты и технологии:
-<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="50" height="50">
-<img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" width="50" height="50">
-<img src="https://user-images.githubusercontent.com/74038190/246061834-25339cb2-0ee0-4f35-89bc-7a7a728b8c1d.gif" width="50" height="50"> 
+**UI и стили:**  
+MUI, CSS Modules, Flexbox, Grid, адаптивная верстка, mobile-first, pixel-perfect
 
-## 📈 Мои достижения
-- Разрабатывал адаптивные лендинги и email-рассылки, применяя pixel-perfect вёрстку.
-- Участвовал в кейс-чемпионате **ДКЭ 2024** — заняли **3 место** с командой.
-- Все проекты размещены на GitHub.
+**Инструменты:**  
+Git, GitHub, Vite, Webpack, Figma, ESLint, Prettier, Storybook
 
-## 📚 Образование
-- **Сибирский федеральный университет** — диплом о профпереподготовке: *Специалист по разработке и сопровождению информационных ресурсов*
-- **Курс** — *Фронтенд-разработчик*, Яндекс.Практикум *(в процессе обучения)*
+**Дополнительно:**  
+Redux Toolkit, React Router, REST API, Jest, Cypress, базовая работа с backend API
 
-## 🔗 Связь со мной
-- [Telegram](https://t.me/pavel_ith)
-- [GitHub](https://github.com/Ozhigov1Pavel)
+## Что я делаю
+
+- Верстаю страницы и компоненты по макетам из Figma
+- Разрабатываю интерфейсы на React + TypeScript
+- Создаю адаптивные интерфейсы под desktop, tablet и mobile
+- Собираю переиспользуемые UI-компоненты
+- Работаю с формами, модальными окнами, фильтрами, каталогами и личными кабинетами
+- Интегрирую frontend с API
+- Поддерживаю чистую структуру проекта и читаемый код
+
+## Избранные проекты
+
+| Проект | Стек | Описание |
+|---|---|---|
+| [SkillSwap](https://github.com/Ozhigov1Pavel/SkillSwap/tree/develop) | React 19, TypeScript, Redux Toolkit, Vite | Сервис для обмена навыками: каталог, карточки пользователей, авторизация, формы, роутинг |
+| [Stellar Burgers](https://github.com/Ozhigov1Pavel/stellar-burgers) | React, TypeScript, Redux Toolkit, React Router | Приложение космической бургерной с авторизацией, защищенными маршрутами и работой с API |
+| [WebLarek](https://github.com/Ozhigov1Pavel/weblarek) | TypeScript, Vite, SCSS | Интернет-магазин с каталогом, корзиной, модальными окнами и оформлением заказа |
+| [CalendarTodo](https://github.com/Ozhigov1Pavel/CalendarTodo) | React, TypeScript | Командный проект календаря задач для кейс-чемпионата ДКЭ 2024 |
+
+## Pixel-perfect и адаптивная верстка
+
+- [Закрывающий тег](https://github.com/Ozhigov1Pavel/zakrivayuschiy-teg-f)
+- [Сложно сосредоточиться](https://github.com/Ozhigov1Pavel/slozhno-sosredotochitsya-fd)
+- [Оно тебе надо](https://github.com/Ozhigov1Pavel/ono-tebe-nado-fd)
+- [Посмотри в окно](https://github.com/Ozhigov1Pavel/posmotri-v-okno-fd)
+
+## Достижения
+
+- 4 года практического опыта во frontend-разработке
+- Опыт разработки React + TypeScript проектов
+- Опыт pixel-perfect верстки по Figma
+- Участие в кейс-чемпионате ДКЭ 2024 — 3 место в команде
+- Все ключевые проекты размещены на GitHub
+
+## Образование
+
+- **Сибирский федеральный университет** — специалист по разработке и сопровождению информационных ресурсов
+- **Яндекс Практикум** — frontend-разработчик
+
+## Контакты
+
+- Telegram: [@pavel_ith](https://t.me/pavel_ith)
+- GitHub: [Ozhigov1Pavel](https://github.com/Ozhigov1Pavel)
 - Email: ozhigovpasha@gmail.com
 
-## 🛠️ Проекты
+## Статистика
 
-- **[Календарь задач (DKE 2024)]** — командный проект, React + TypeScript
-  - [Ссылка на проект](https://github.com/Pavel0Ivashkevich/CalendarTodo)
-
-- **[Личный проект / Pet-проекты]**
-  - [Мои репозитории на GitHub](https://github.com/Ozhigov1Pavel?tab=repositories)
-
-## ✨ Статистика
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ozhigov1Pavel&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
 
-## 📅 Последняя активность
-![Last Commit](https://github-readme-streak-stats.herokuapp.com/?user=Ozhigov1Pavel&theme=radical)
-
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ozhigov1Pavel&theme=radical)
