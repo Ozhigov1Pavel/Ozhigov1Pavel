@@ -94,6 +94,5 @@
 <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ozhigov1Pavel&theme=radical" alt="GitHub stats" />
 <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Ozhigov1Pavel&theme=radical&utcOffset=7" alt="Productive time" />
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Ozhigov1Pavel&theme=react-dark&hide_border=true" alt="GitHub activity graph" />
 
 </div>
